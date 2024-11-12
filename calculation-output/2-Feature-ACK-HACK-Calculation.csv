@@ -1,0 +1,4 @@
+"Gene.A.Number","Gene.B.Number","bresub","Gene.A.Name","Gene.B.Name","Delta-Gene.A","Delta-Gene.B","Min.Delta"
+139,305,0.0557,"Slc38a1","Rpsa",0.1373,0.0629,0.0629
+270,305,0.072,"Scnn1a","Rpsa",0.2266,0.0466,0.0466
+305,315,0.0673,"Rpsa","Ctnnd1",0.0513,0.3068,0.0513

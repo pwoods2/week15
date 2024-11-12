@@ -1,0 +1,5 @@
+"Gene.A.Number","Gene.B.Number","bresub","Gene.A.Name","Gene.B.Name","Delta-Gene.A","Delta-Gene.B","Min.Delta"
+95,372,0.0498,"Hif1a","Dsg2",0.2556,0.0279,0.0279
+322,372,0.0471,"Emsy","Dsg2",0.2572,0.0306,0.0306
+372,388,0.036,"Dsg2","Gja8",0.0417,0.2688,0.0417
+372,456,0.0279,"Dsg2","Ccl28",0.0498,0.2764,0.0498

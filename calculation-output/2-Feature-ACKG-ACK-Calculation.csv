@@ -1,0 +1,5 @@
+"Gene.A.Number","Gene.B.Number","bresub","Gene.A.Name","Gene.B.Name","Delta-Gene.A","Delta-Gene.B","Min.Delta"
+25,104,0.0988,"Pkn2","Vcan",0.2829,0.1875,0.1875
+58,417,0.073,"Il13ra1","Birc2",0.2081,0.0892,0.0892
+261,385,0.073,"Pdap1","Krt8",0.1867,0.1795,0.1795
+385,417,0.0633,"Krt8","Birc2",0.1892,0.0989,0.0989
