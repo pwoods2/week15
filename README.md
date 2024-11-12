@@ -7,4 +7,4 @@ Includes:
 4. output-files: the output-files (.txt) used in the annotation-files
 5. annotation-files: the files (.R) used to create the calculation-output files
 6. calculation-output: the files (.csv) used to sort the data for review and use in the graphics source-files
-7. source-files: the files (.m) used to generate figures (.fig)
+7. source-files: the files (in grpahics - .m) used to generate figures (.fig)
