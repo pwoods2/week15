@@ -2,5 +2,9 @@
 This is to place all of the week 15 LDA code I have used into one location for better tracking.
 Includes:
 1. LDA-Input-Files: the Rmd file to create input files
-2. annotation-files: the R files to run the LDA for the comparisons
-3. calculation-output: the 1-, 2-, and 3-Feature output files
+2. input-files: the input files (.txt) created by LDA-Input-Files
+3. feature-code: the files (including the compilation script) to compile the input-files into the output-files
+4. output-files: the output-files (.txt) used in the annotation-files
+5. annotation-files: the files (.R) used to create the calculation-output files
+6. calculation-output: the files (.csv) used to sort the data for review and use in the graphics source-files
+7. source-files: the files (.m) used to generate figures (.fig)
