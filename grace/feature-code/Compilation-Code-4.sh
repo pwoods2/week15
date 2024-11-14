@@ -13,7 +13,7 @@ source_dir="/home/pwoods2/week15August2024grace/week15/grace/feature-code"  # Re
 other_files=$(find "$source_dir" -type f -name "*.c" ! -name "*Main.c")
 
 # Compile the specified main.c file with other .c files
-gcc -o "$output" "$source_dir/$main_file" $other_files
+gcc -o "$output" "$source_dir/$main_file" $other_files -lm
 
 # Inform the user
 echo "Compiled $main_file with other source files into $output."
