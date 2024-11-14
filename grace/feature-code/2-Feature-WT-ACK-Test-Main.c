@@ -34,7 +34,7 @@ int main(void) {
 	double resub, bresub;
 	
 	//-------------------------------------------------
-	fp = fopen("/home/pwoods2/week15August2024grace/week15/grace/WT_ACK-TestOct2024grace.txt", "r");
+	fp = fopen("/home/pwoods2/week15August2024grace/week15/grace/inputs/WT_ACK-TestOct2024grace.txt", "r");
 	//-------------------------------------------------
 	
 	if (fp==NULL)
@@ -123,7 +123,7 @@ int main(void) {
 	}
 	//-------------------------------------------------
 	int ii, jj, pp, qq;
-	fpout = fopen("/home/pwoods2/week15August2024grace/week15/grace/2-Feature-WT-ACK-Test-Output-Grace.txt", "w");
+	fpout = fopen("/home/pwoods2/week15August2024grace/week15/grace/outputs/2-Feature-WT-ACK-Test-Output-Grace.txt", "w");
 	fprintf(fpout, "gene index\ta_n\tm\tresub\tbresub\n");
 	//-------------------------------------------------
 	// the following for loops are for exhaustive search
